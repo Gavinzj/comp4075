@@ -10,15 +10,15 @@ import sys
 
 with open('sources/output201803-23-28.json', 'r') as f:
     x = json.load(f)
-    content = ""
+    desc = ""
     doclist = []
     ex2 = ""
     for item in x:
         for a in item['articles']:
-            content = a['description']
-            content = content.strip()
-            content = re.sub("[+\.\!\/_,$%^*(+\"\'@#]", " ", content)
-            content = re.sub("[^A-Za-z\s]", " " ,content)
-            content = content.lower()
-            doclist.append(" " + content)
-            print(content)
+            desc = a['description']
+            desc = desc.strip()
+            desc = re.sub("[+\.\!\/_,$%^*(+\"\'@#]", " ", desc)
+            desc = re.sub("[^A-Za-z\s]", " " ,desc)
+            desc = desc.lower()
+            doclist.append(desc)
+            print(desc + "\n")
