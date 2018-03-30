@@ -14,6 +14,11 @@ with open('sources/output20180329.json', 'r') as f:
     ex2 = ""
     for item in x:
         for a in item['articles']:
-            print(a['description'])
-            doclist.append(a['description'])
+            content = a['description']
+            content = content.strip()
+            content = re.sub("[+\.\!\/_,$%^*(+\"\'@#]", " ", content)
+            content = re.sub("[^A-Za-z\s]", " " ,content)
+            content = content.lower()
+            doclist.append(" " + content)
+            print(content)
             print('\n') 
