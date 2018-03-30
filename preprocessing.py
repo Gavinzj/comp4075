@@ -6,8 +6,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import metrics
 from sklearn.cluster import KMeans
 import numpy as np
+import sys
 
-with open('sources/output20180329.json', 'r') as f:
+with open('sources/output201803-23-28.json', 'r') as f:
     x = json.load(f)
     content = ""
     doclist = []
@@ -21,4 +22,3 @@ with open('sources/output20180329.json', 'r') as f:
             content = content.lower()
             doclist.append(" " + content)
             print(content)
-            print('\n') 
