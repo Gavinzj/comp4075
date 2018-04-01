@@ -8,13 +8,15 @@ import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 import os
+import sys
 
 path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources")
 print("Open file: "+path)
 input_files = []
 num_of_topocs = 20
 n_top_words = 200
-num_show_news = 300
+num_iteration = 3000
+num_news = 0
 
 for dir_entry in os.listdir(path):
     dir_entry_path = os.path.join(path, dir_entry)
@@ -35,7 +37,8 @@ for input_file in input_files:
 
 
 tokenizer = RegexpTokenizer(r'\w+')
-
+num_news = len(titles)
+print("number of news: "+str(num_news))
 # create English stop words list
 en_stop = get_stop_words('en')
 
@@ -63,7 +66,7 @@ for input_file in input_files:
                     data.append(pieces)
 
 	
-print(len(data))
+print("number of data; "+str(len(data)))
 token_dict = {}
 num = 0
 
@@ -80,19 +83,16 @@ for item in data:
         token_dict[num] = buf[i]
         num = num+1
 
-print(len(token_dict))
+print("number of words: "+str(len(token_dict)))
 
-print("\n Build DTM")
 tf = CountVectorizer(stop_words='english')
 
-print("\n Fit DTM")
 tfs1 = tf.fit_transform(token_dict.values())
 
 #use lda
-model = lda.LDA(n_topics=num_of_topocs, n_iter=5000, alpha=0.1, eta=0.01,random_state=10)
+model = lda.LDA(n_topics=num_of_topocs, n_iter=num_iteration, alpha=0.1, eta=0.01,random_state=10)
 
 # we fit the DTM not the TFIDF to LDAz
-print("\n Fit LDA to data set")
 model.fit_transform(tfs1)
 
 print("\n Obtain the words with high probabilities")
@@ -101,11 +101,20 @@ topic_word = model.topic_word_  # model.components_ also works
 print("\n Obtain the feature names")
 vocab = tf.get_feature_names()
 
+print("create title_topic.txt")
+print("create topic.txt")
+
 topic_word = model.topic_word_  # model.components_ also works
 for i, topic_dist in enumerate(topic_word):
     topic_words = np.array(vocab)[np.argsort(topic_dist)][:-n_top_words:-1]
+    sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "newsKeyword/title_topic.txt"),"a+")
     print('Topic {}: {}'.format(i, ' '.join(topic_words)))
+    sys.stdout.close()
+    
 
 doc_topic = model.doc_topic_
-for i in range(num_show_news):
+for i in range(num_news):
+    sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "newsKeyword/topic.txt"),"a+")
     print("news number{}: {} (top topic: {}) \n".format(i, titles[i], doc_topic[i].argmax()))
+    sys.stdout.close()
+    
