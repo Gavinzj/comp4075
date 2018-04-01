@@ -7,11 +7,21 @@ import json
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
+import os
 
-input_files = ['/Users/fzj/Desktop/comp4075_project/news data/sources/output201803-23-28.json', '/Users/fzj/Desktop/comp4075_project/news data/sources/output20180329.json']
-num_of_topocs = 300
-n_top_words = 20
+path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources")
+print("Open file: "+path)
+input_files = []
+num_of_topocs = 20
+n_top_words = 200
 num_show_news = 300
+
+for dir_entry in os.listdir(path):
+    dir_entry_path = os.path.join(path, dir_entry)
+    if (os.path.isfile(dir_entry_path) and dir_entry_path.endswith("json")):
+        input_files.append(dir_entry_path)
+        print("Append file: "+dir_entry_path)
+        
 #load title
 titles = []
 for input_file in input_files:
