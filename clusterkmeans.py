@@ -16,15 +16,14 @@ from sklearn import metrics
  
 # training data
  
-sentences = #[['this', 'is', 'the', 'good', 'machine', 'learning', 'book'],
+sentences = [['this is the good machine learning book']]
+ 
+##[['this', 'is', 'the', 'good', 'machine', 'learning', 'book'],
             #['this', 'is',  'another', 'book'],
             #['one', 'more', 'book'],
             #['this', 'is', 'the', 'new', 'post'],
           #['this', 'is', 'about', 'machine', 'learning', 'post'],  
-            #['and', 'this', 'is', 'the', 'last', 'post']]
-           [['keyword']]
- 
- 
+            #['and', 'this', 'is', 'the', 'last', 'post']] 
 # training model
 model = Word2Vec(sentences, min_count=1)
  
