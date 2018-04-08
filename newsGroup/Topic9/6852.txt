@@ -1,0 +1,1 @@
+gitlab one of most popular selfhosted git services has been on bit of roll lately barely two weeks after launching its integration with github company today announced that developers on its platform can now automatically spin up cluster on

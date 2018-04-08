@@ -1,0 +1,1 @@
+students at new york university have created working prototype of app that uses machine learning and augmented reality to enable hearing people to understand sign language and turns spoken words into sign language for deaf

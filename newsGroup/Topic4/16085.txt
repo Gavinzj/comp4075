@@ -1,0 +1,1 @@
+rfid reader raspberry pi few google homes chromecast speaker and some python is almost all you need to get going

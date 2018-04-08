@@ -1,0 +1,1 @@
+mozilla is offering new extension called facebook container for firefox that will block facebook from tracking your online behavior essentially isolates your web traffic from your facebook session so that your browsing history cant be tracked by faceb

@@ -1,0 +1,1 @@
+google chrome added new shortcut to make adding emoji on desktop easier its currently on testing channel chrome canary and users can enable by going to chromeflags and searching emoji as spotted by togoogle

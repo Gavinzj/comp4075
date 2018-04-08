@@ -1,0 +1,1 @@
+nvidia has unveiled several updates to its deeplearning computing platform including absurdly powerful gpu and supercomputer at this years gpu technology conference in san jose nvidia ceo jensen huang unveiled dgx new computer for researchers

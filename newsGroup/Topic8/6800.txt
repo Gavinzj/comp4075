@@ -1,0 +1,1 @@
+this morning developers of thirdparty twitter clients tweetbot twitterific tweetings and talon banded together to highlight upcoming api changes that could potentially break way their apps work as you might expect their collective user base

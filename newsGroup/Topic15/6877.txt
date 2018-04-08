@@ -1,0 +1,1 @@
+as part of its ongoing efforts to patch its systems against meltdown and spectre chip flaws intel indicated last month that would be issuing fixes as far back as s yorkfield processors but in new guidance document company announces that ma

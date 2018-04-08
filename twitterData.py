@@ -16,6 +16,8 @@ def getTwitterData(user, pages):
     en_stop = get_stop_words('english')
     words = ""
     for tweet in get_tweets(user, pages=pages):
+        print(tweet['text'])
+    for tweet in get_tweets(user, pages=pages):
         content = tweet['text']
         content = content.strip()
         content = re.sub("[+\.\!\/_,$%^*(+\"\'@#]", " ", content)

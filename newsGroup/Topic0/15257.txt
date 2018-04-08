@@ -1,0 +1,1 @@
+nvidia has taken autosim virtual environment for testing autonomous cars originally showed off at ces combined with its drive pegasus ai incar computer and created virtual testing and validation loop that can handle billions of virtual driving m

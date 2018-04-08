@@ -1,0 +1,1 @@
+videos will expand to fill whole screen with no black bars and crop automatically when scrolling

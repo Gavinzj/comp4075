@@ -1,0 +1,1 @@
+i need to update django model using bootstrap modals i use ajax requests to modify this values in every step i modify one field but users can cancel de process so i only want to save changes into db when they confirm action in last modal how c

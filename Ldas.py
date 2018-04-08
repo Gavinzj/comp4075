@@ -15,7 +15,7 @@ print("Open file: "+path)
 input_files = []
 num_of_topocs = 20
 n_top_words = 200
-num_iteration = 3000
+num_iteration = 1000
 num_news = 0
 
 for dir_entry in os.listdir(path):
@@ -115,6 +115,14 @@ for i, topic_dist in enumerate(topic_word):
 doc_topic = model.doc_topic_
 for i in range(num_news):
     sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "newsKeyword/topic.txt"),"a+")
-    print("news number{}: {} (top topic: {}) \n".format(i, titles[i], doc_topic[i].argmax()))
+    print("News number:{};Topic{};Descriptions:{};Topic{}; \n".format(i, titles[i], data[i], doc_topic[i].argmax()))
+    sys.stdout.close()
+
+num = 0    
+for i in range(num_news):
+    fileName = "newsGroup/Topic"+str(doc_topic[i].argmax())+"/"+str(num)+".txt";
+    num = num + 1
+    sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), fileName),"w")
+    print(data[i])
     sys.stdout.close()
     

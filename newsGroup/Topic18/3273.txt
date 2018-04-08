@@ -1,0 +1,1 @@
+if you use thirdparty twitter app like tweetbot twitterrific talon or tweetings you might lose couple of key features when twitter replaces developer access to user and site streams with new account activity api this coming june folks

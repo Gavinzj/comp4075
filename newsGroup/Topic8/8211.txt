@@ -1,0 +1,1 @@
+google team created app that asks users in india and elsewhere to identify household objects and public places to boost accuracy of its imagerecognition services

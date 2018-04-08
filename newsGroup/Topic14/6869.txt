@@ -1,0 +1,1 @@
+img classalignright sizethumbnail wpimage src altenglogo width height target
