@@ -1,1 +1,0 @@
-hi im sorry that subject title is so vague my project is controller for relay module connect to marquee light relay for each letter im using switch case sequence which cycles through different leds representing modes mo

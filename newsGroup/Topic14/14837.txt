@@ -1,1 +1,0 @@
-firefox container stops facebook tracking your browsing with thirdparty cookies

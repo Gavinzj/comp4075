@@ -1,1 +1,0 @@
-google will now let developers use texttospeech synthesis that powers voices in google assistant and maps cloud texttospeech is available now through google cloud platform and company says can be used to power voice response systems in

@@ -1,1 +1,0 @@
-remixed side strut for sparkfun shadow chassis to mount raspberry pi camera in front

@@ -1,1 +1,0 @@
-all divs have been put onto one line because of whitespace issues when rendered inline in browsers american media are all too willing to play along all divs have been put onto one line because of whitespace issues when rendered inline in browse
