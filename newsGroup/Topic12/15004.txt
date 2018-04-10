@@ -1,1 +1,0 @@
-cruise control doesnt adapt for different road surfaces so maintains same speed increasing likelihood that driver will lose control of their vehicle

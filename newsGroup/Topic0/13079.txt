@@ -1,1 +1,0 @@
-i have table named roundtable and has fields max number of seats and number of currently occupied seats i want to find max difference between these two columns my model class roundtablemodelsmodel totalseats modelssmallintegerfi

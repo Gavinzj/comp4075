@@ -1,0 +1,1 @@
+I just started implementing FCM into my Django backend. The problem I encountered is the following. In the docs you are told to generate a private key JSON file and securely store it. Usually I store my keys in an os.env variable. But this is not possible, si…

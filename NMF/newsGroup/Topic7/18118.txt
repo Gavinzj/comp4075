@@ -1,0 +1,1 @@
+Is there a way in wagtail to use a streamfield on the frontend? Example usage: Let's say I'm building a news gallery and I present a frontend form fo rusers to create content / article pages. Since the streamfield is ineherently tied into the admin I don't se…

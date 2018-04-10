@@ -136,7 +136,7 @@ for i in range(len(doctopic)):
     top_topics = np.argsort(doctopic[i,:])[::-1][0:10]
     top_topics_str = ' '.join(str(t) for t in top_topics)
     sys.stdout=open("/Users/fzj/Desktop/comp4075/NMF/newsKeyword/title_topic.txt","a+")
-    print("{}: {}+\n".format(novels[i], top_topics_str))
+    print("{}§ {}+\n".format(novels[i], top_topics_str))
     sys.stdout.close()
     
 

@@ -1,1 +1,0 @@
-mariadb is best known as dropin replacement for popular mysql database but mariadb corporation which was founded by mysql founder monty widenius and which offers all of its software under open source license clearly has its sights set on bi

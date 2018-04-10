@@ -1,0 +1,1 @@
+Bitcoin users can now access the Lightning Network (LN) through their mobile devices, thanks to a new release from French cryptocurrency startup ACINQ. On Wednesday, the Paris-based developer released the first mainnet version of Eclair Wallet, a mobile Light…

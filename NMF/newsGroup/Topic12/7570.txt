@@ -1,0 +1,1 @@
+I get a TypeError: options() missing 1 required positional argument: 'context' on the following code: def post_ad(request): filename = request.POST.get('temp_s3_url') boost_form = AdvertisePostForm(request.POST or None, request.FILES or None) if boost_form.is…

@@ -1,0 +1,1 @@
+Sketch.The.Ripper is a free tool for designers and developers: it shows the contents of any .sketch file: artboards, symbols, and text. Now you can rip a .sketch file in one click on any operating system.

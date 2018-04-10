@@ -1,0 +1,1 @@
+<!-- All divs have been put onto one line because of whitespace issues when rendered inline in browsers --> Guns ruin lives. <!-- All divs have been put onto one line because of whitespace issues when rendered inline in browsers --> <!-- BODY --> <!--smart_pa…

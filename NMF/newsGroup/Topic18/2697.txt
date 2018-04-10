@@ -1,0 +1,1 @@
+Braintree, the division of PayPal that provides payment services to e-commerce and other online businesses, is making its latest move to help raise its game against competitors like Stripe. It is launching a new solution called Extend, a set of tools to integ…

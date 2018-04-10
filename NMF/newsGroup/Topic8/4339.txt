@@ -1,0 +1,1 @@
+Funding agencies now require researchers to provide a data management plan (DMP) as part of their funding proposals. Developing a DMP that details the methods for collecting, organizing, storing, backing up, sharing, and archiving the research data through th…

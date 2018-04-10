@@ -1,0 +1,1 @@
+Amid the torrent of news at CES in January, it was easy to miss the unveiling of NVIDIA's Drive platform -- a way for the company to test out its self-driving algorithms through repeated simulations. At that point, it was more of a concept than an actual prod…

@@ -1,0 +1,1 @@
+Plex VR movie-watching app no longer a Daydream, now works on Oculus and Gear VR.

@@ -1,0 +1,1 @@
+Text-to-speech synthesis has made great strides over the course of the last few years, up to the point where many modern systems almost sound like a real person is reading a text. Google has been among the leaders of this development and starting today, devel…

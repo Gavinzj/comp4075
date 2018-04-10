@@ -1,0 +1,1 @@
+NVIDIA launched NVIDIA DGX-2, the first single server capable of delivering two petaflops of computational power.A DGX-2 has the deep learning processing power of 300 servers occupying 15 racks of... [[ This is a content summary only. Visit my website for ful…

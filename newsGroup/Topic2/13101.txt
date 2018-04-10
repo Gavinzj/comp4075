@@ -1,1 +1,0 @@
-is possible to add to manytomanyfield when youve only list of ids without db hit to retrieve instances addinstancesbutwithdbhit does this but with hit thanks class workercombinedpaymentabstractreimbursement chargeid modelstextf

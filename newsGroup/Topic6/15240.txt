@@ -1,1 +1,0 @@
-as companies gather increasing amounts of data they face choice over bottlenecks they can have in storage component or backend compute system some companies have attacked problem by using gpus to streamline back end problem or flash st

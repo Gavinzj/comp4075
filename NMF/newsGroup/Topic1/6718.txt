@@ -1,0 +1,1 @@
+If you're fond of loading custom ROMs on your Android phone, life just became complicated. Google has quietly started blocking access to its apps on uncertified devices whose firmware was built after March 16th. If you're affected, you'll get a warning that a…

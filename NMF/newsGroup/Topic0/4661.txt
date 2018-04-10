@@ -1,0 +1,1 @@
+I have a table named RoundTable and it has 2 fields, the max number of seats and the number of currently occupied seats. I want to find the max difference between these two columns. My model: class RoundTable(models.Model): total_seats = models.SmallIntegerFi…

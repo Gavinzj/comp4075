@@ -1,1 +1,0 @@
-soon you wont need one of nvidias tiny jetson systems if you want to tap into its ai smarts for smaller devices at its gpu technology conference gtc today company announced itll be bringing its open source deep learning architecture nvdla over to

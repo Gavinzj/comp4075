@@ -1,0 +1,1 @@
+Implies that game won’t receive an end-of-life transition to free-to-play, either.

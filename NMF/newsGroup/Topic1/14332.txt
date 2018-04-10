@@ -1,0 +1,1 @@
+Allows the online commerce platform to rely less on its own data centres and spend more time on their customers

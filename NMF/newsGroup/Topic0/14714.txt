@@ -1,0 +1,1 @@
+Most of Spectra's ease of use, in a pint-sized package.
