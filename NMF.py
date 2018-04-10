@@ -21,7 +21,7 @@ path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources")
 print("Open file: "+path)
 input_files = []
 num_of_topocs = 20
-n_top_words = 200
+n_top_words = 400
 num_show_news = 0
 
 for dir_entry in os.listdir(path):

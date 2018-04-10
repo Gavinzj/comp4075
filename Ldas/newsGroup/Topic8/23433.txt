@@ -1,0 +1,1 @@
+with current and past social media fiascos on facebook and elsewhere i want to look more deeply at effective data poisoning techniques as

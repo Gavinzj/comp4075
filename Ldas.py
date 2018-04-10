@@ -15,7 +15,7 @@ path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources")
 print("Open file: "+path)
 input_files = []
 num_of_topocs = 20
-n_top_words = 200
+n_top_words = 400
 num_iteration = 1000
 num_news = 0
 
@@ -108,22 +108,15 @@ print("create topic.txt")
 topic_word = model.topic_word_  # model.components_ also works
 for i, topic_dist in enumerate(topic_word):
     topic_words = np.array(vocab)[np.argsort(topic_dist)][:-n_top_words:-1]
-    sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "newsKeyword/title_topic.txt"),"a+")
+    sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "Ldas/newsKeyword/topic.txt"),"a+")
     print('Topic {}: {}'.format(i, ' '.join(topic_words)))
     sys.stdout.close()
     
 
 doc_topic = model.doc_topic_
 for i in range(num_news):
-    sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "newsKeyword/topic.txt"),"a+")
-    print("News number:{};Topic{};Descriptions:{};Topic{}; \n".format(i, titles[i], data[i], doc_topic[i].argmax()))
+    sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "Ldas/newsKeyword/title_topic.txt"),"a+")
+    print("{}\t{}\t{}\t \n".format(titles[i], data[i], doc_topic[i].argmax()))
     sys.stdout.close()
 
-num = 0    
-for i in range(num_news):
-    fileName = "newsGroup/Topic"+str(doc_topic[i].argmax())+"/"+str(num)+".txt";
-    num = num + 1
-    sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), fileName),"w")
-    print(data[i])
-    sys.stdout.close()
     

@@ -1,0 +1,1 @@
+bristol gate capital partners developed platform to forecast dividend growth thats evolved from soupedup excel model to machinelearning algorithm

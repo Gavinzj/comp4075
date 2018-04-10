@@ -1,0 +1,1 @@
+here i have class models modelspy class parametermodelsmodel files modelsfilefield uploadtouploaded blanktrue nulltrue and i have this in my adminpy class parameteradminadminmodeladmin form parameter and i add in my formspy so

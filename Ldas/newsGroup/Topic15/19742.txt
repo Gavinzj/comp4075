@@ -1,0 +1,1 @@
+i have django blog project via pythonanywhere using postgres and have recently tried to push my changes mainly implementing djangomptt to my models to my production server via git i have ran migrations etc but when i load site i got server erro

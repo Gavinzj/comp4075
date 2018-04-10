@@ -1,0 +1,1 @@
+i have table of datasets in django template like so extends basehtml block title catalogs endblock block content datasetname type classification originalsource originalowner yearoforigin for catalog in objectlist form

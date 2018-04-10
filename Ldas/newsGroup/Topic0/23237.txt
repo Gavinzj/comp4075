@@ -1,0 +1,1 @@
+i am new to django and i am having lot of trouble with certain concept i see many questions about this but they are usually about much more complicated applications i am trying to build app that will be used on single computer and only as stand

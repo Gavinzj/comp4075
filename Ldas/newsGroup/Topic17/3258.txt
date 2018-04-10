@@ -1,0 +1,1 @@
+few days ago kelly shortridge product manager at securityscorecard detected some unexpected behavior on her pc as honeypot canarytoken reported being accessed by chromeexe thats not what youd expect from web browser normally except for one thin

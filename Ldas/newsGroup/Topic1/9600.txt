@@ -1,0 +1,1 @@
+aldersons tweets mentioning how personal data of users on congress app was not encrypted and was sent encoded through http request led to furore and app was removed from google play store

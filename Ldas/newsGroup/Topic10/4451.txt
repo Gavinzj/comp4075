@@ -1,0 +1,1 @@
+im trying to wrap polygoncolliderd around nontransparent part of sprite pixel perfect is there easy way to do this just adding collider to gameobject with spriterenderer and sprite does wrap fair bit but far from perfectly

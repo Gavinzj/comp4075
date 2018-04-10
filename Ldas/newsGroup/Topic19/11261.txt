@@ -1,0 +1,1 @@
+browser will use heuristics to allow sites like youtube netflix to continue to autoplay

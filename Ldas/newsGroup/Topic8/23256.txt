@@ -1,0 +1,1 @@
+when i enter info into my formset images gets erased and im not able to advance to next page no errors appear on page essentially form data isnt passing isvalid im pretty certain that there is something wrong in my viewpy modelsp

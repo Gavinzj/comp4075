@@ -1,0 +1,1 @@
+i just started implementing fcm into my django backend problem i encountered is following in docs you are told to generate private key json file and securely store usually i store my keys in osenv variable but this is not possible si

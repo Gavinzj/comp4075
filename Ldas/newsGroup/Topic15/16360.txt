@@ -1,0 +1,1 @@
+this has been long time coming but during his gtc keynote nvidia ceo jensen huang today announced support for googleincubated kubernetes container orchestration system on nvidia gpus idea here is to optimize use of gpus in hyperscale data ce

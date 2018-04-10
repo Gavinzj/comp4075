@@ -1,0 +1,1 @@
+its been few years since dropbox first started talking about smart sync feature that lets users see everything stored in their dropbox in mac finder or windows explorer regardless of whether that file is available locally or stored in

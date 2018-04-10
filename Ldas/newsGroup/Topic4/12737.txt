@@ -1,0 +1,1 @@
+last week nvidia unveiled its rtx realtime ray tracing technology at gdc has potential to change way artists and developers work in d by letting them quickly render realistic scenes only downside was meant for video cards
