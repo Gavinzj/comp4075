@@ -1,0 +1,1 @@
+We read with interest the Lancet Editorial on artificial intelligence (AI) in health care (Dec 23, 2017, p 2739).1 Deep learning as a form of AI risks being overhyped. Deep neural networks contain multiple layers of nodes connected by adjustable weights. Lear…

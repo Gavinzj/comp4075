@@ -1,0 +1,1 @@
+Fog Creek Software (led by well-known entrepreneur Anil Dash) has spent about a year testing Glitch, a sort of YouTube for app creators where people can create, modify and host code in an easy to use, collaborative environment. And now, it's ready for public …

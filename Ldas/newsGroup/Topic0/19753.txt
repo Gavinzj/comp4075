@@ -1,0 +1,1 @@
+i am trying to implement simple search feature in my cbvs listview below is how my listview looks like class postlistselectrelatedmixin listview model post selectrelated user group i would like to achieve something like this def postlistr

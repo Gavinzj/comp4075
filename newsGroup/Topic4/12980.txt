@@ -1,1 +1,0 @@
-i have multiplechoicefield in django and auto selects empty value in rendered output what is not desired choices u no extra ucheese ucheese upepper upepper extratopics formsmultiplechoicefieldrequiredfalse

@@ -1,0 +1,1 @@
+I'm building a Saleor Site and I'm relatively new to Django and SASS. I'm currently making my own styling rules in my SCSS files where there's some duplicated code and I feel like there's probably a way of reducing the amount of that duplicated code. Couldn't…

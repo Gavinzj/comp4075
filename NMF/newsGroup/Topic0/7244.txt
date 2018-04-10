@@ -1,0 +1,1 @@
+In Wagtail, I have made a Block with an ImageChooserBlock in it like this: class MyBlock(blocks.StructBlock): background = ImageChooserBlock() Now i want to add some extra fields to the ImageChooserBlock so I moved it to its own Block so now it looks like thi…

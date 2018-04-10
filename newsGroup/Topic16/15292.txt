@@ -1,1 +1,0 @@
-kloudless makes easier for developers to connect their applications to variety of thirdparty tools for file storage customer management calendaring and other services through unified api its bit like ifttt for developers today company

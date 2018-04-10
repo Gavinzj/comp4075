@@ -1,0 +1,1 @@
+im having difficulty configuring static files in django production server deployed on heroku works properly when debug true but as soon as i switch to debug false i get application error spawning identical error external ip intern

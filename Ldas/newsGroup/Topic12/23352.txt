@@ -1,0 +1,1 @@
+heres deal i want to create image based on pythonlatest for django development i want to create django project inside container and make reflect on host folder via docker volumes i want to use python interpreter from contain

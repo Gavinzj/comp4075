@@ -1,1 +1,0 @@
-skype isnt building its own recording software but relying on thirdparty software including xsplit wirecast and vmix these products among others have allowed you to record skype calls for years but now sounds as if microsoft wants more streamline

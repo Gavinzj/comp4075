@@ -1,0 +1,1 @@
+i need help with celery im creating web service to send vouchers which are in three categories thirtyfifty and hundred each of these vouchers are stored in their own models payment gateway sends instant payment notification to my website which i

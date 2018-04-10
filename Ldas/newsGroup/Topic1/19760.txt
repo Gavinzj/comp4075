@@ -1,0 +1,1 @@
+i tried to deploy mi site using this tutorial in redhat but when i need to write something in database always have this exception attempt to write readonly database my directory have apa

@@ -1,0 +1,1 @@
+Speakers: Derek Rook Do you get excited about talks at hacker conferences, only to return to your office feeling like you have too few resources to implement anything you learned? We'll be discussing ways to start implementing internal attack and penetration …

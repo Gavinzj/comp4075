@@ -1,0 +1,1 @@
+i have following js that adds forms to my template whenever i click on button function updateelementindexel prefix ndx var idregex new regexp prefix d var replacement prefix ndx if elattrfor elattr

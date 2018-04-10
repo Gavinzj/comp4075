@@ -1,0 +1,1 @@
+I need a way to describe a model constraint where 2 models have the same field ( EmailField in this case) and unique across both models (P.S. I do not mean unique_together ) What I'm trying to do? One model is the user model, the other is pending invitations.…

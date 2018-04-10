@@ -1,1 +1,0 @@
-aws s storage service today launched cheaper option for keeping data in cloud as long as developers are willing to give up few s of availability in return for saving up to percent compared to standard s price for applications that need i

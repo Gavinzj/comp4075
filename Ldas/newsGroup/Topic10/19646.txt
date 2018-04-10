@@ -1,0 +1,1 @@
+ive been research lot about this but dont get any answer accurate heres deal i want to override where formsfield is used from my own that is where all classes that inherit from formsfield inherit from my own why i like to add some propertie

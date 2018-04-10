@@ -1,0 +1,1 @@
+django drf i am using automatically generated documentation provided by drf my urlspy from restframeworkdocumentation import includedocsurls urlpatterns pathdocs includedocsurlstitlemy api this used to work just f

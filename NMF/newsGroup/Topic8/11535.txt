@@ -1,0 +1,1 @@
+"Password spraying" attack gave Mabna group access to 32TB of diverse research data.

@@ -1,0 +1,1 @@
+i have template tag named stringafter that i want to use within url however i cant find anywhere what syntax would be to use tag within url i would use tag as such stringafter typesitetype d which i tried to put inside ur

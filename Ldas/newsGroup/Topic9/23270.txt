@@ -1,0 +1,1 @@
+runtime verification rv is relatively new software analysis approach introduced by klaus havelund nasa jpl and grigore rosu in when they were colleagues at nasa ames
