@@ -1,0 +1,1 @@
+MariaDB acquires big analytics company MammothDB MariaDB is best known as a drop-in replacement for the popular MySQL database. But the MariaDB Corporation, which was founded by MySQL founder Monty Widenius and which offers all of its software under an open source license, clearly has its sights set on a bi…

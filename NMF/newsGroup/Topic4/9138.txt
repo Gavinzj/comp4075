@@ -1,1 +1,0 @@
-As part of its ongoing efforts to patch its systems against the Meltdown and Spectre chip flaws, Intel indicated last month that it would be issuing fixes as far back as 2005's Yorkfield processors. But in a new guidance document the company announces that ma…

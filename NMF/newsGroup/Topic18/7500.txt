@@ -1,0 +1,1 @@
+How do I put a task on hold/defer in Celery until a condition has been met? I need help with celery. I'm creating a web service to send vouchers which are in three categories thirty,fifty and hundred. Each of these vouchers are stored in their own models. The payment gateway sends an Instant Payment Notification to my website which I…

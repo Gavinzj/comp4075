@@ -1,0 +1,1 @@
+As predicted, more speculative execution processor attacks are discovered New attack focuses on a different part of the speculative execution system.

@@ -1,1 +1,0 @@
-Tweetbot, Twitterrific, and other third-party clients are at risk of losing important features due to upcoming Twitter API changes.

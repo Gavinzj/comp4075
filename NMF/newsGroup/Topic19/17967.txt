@@ -1,0 +1,1 @@
+WA Forecast WA Forecast for Wednesday, April 11, 2018 _____ City/Town;Weather Condition;High Temp (F);Low Temp (F);Wind Direction;Wind Speed (MPH);Humidity (%);Chance of Precip. (%);UV Index Arlington;Breezy with rain;57;46;SSE;13;65%;88%;2 Bellingham;Showers around;56;4…

@@ -1,0 +1,1 @@
+Microsoft open sources original File Manager from the ‘90s so it can run on Windows 10 Microsoft’s original Windows File Manager from 1996 has now been opened sourced and is available to download and run on Windows 

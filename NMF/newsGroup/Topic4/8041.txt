@@ -1,1 +1,0 @@
-Intel drops plans to develop Spectre microcode for ancient chips arstechnica.com

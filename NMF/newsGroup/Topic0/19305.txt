@@ -1,1 +1,0 @@
-I tried to deploy mi site using this tutorial: https://www.unixmen.com/configure-django-with-apache-centos-7/ in redhat 7 but when I need to write something in the database always have this exception: attempt to write a readonly database My Directory have apa…

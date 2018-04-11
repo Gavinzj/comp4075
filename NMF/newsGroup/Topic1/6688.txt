@@ -1,1 +1,0 @@
-This third-party Google Fuchsia demo gives a taste of the operating system's versatility and search focus.

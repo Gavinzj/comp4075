@@ -1,1 +1,0 @@
-This robot will test radiation levels in 15 of the 75 miles of pipes.

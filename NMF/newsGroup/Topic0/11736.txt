@@ -1,1 +1,0 @@
-The firm will stop releasing GeForce drivers for 32-bit systems before the end of the month.

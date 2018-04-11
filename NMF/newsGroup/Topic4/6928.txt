@@ -1,1 +1,0 @@
-The proof-of-concept exploit code for a vulnerability affecting many Cisco switches has been leveraged by vigilante hackers to mess with networks and data-centers in Russia and Iran. Who has been hit? According to Kaspersky Lab researchers, after exploiting t…

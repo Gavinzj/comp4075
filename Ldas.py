@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import nltk
 import numpy as np
 import lda
 from nltk.tokenize import RegexpTokenizer
@@ -10,6 +11,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 import os
 import sys
+from nltk.corpus import stopwords
 
 path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources")
 print("Open file: "+path)
@@ -59,10 +61,11 @@ for input_file in input_files:
                     pieces = re.sub(r"http\S+","",str(pieces))
                     pieces = re.sub("[+\.\!\/_,$%^*(+\"\'@#]", "",str(pieces))
                     pieces = re.sub('[^A-Za-z\s]', "", str(pieces))
-                    stopwords = ("a", "an", "the", "he", "she", "it")
+                    stops = set(stopwords.words("english"))
+                    #stopwords = ("a", "an", "the", "he", "she", "it")
                     pieces = str(pieces).lower()
                     tokens = str(pieces).split()
-                    tokens = [w for w in tokens if w not in stopwords]
+                    tokens = [w for w in tokens if w not in stops]
                     pieces = " ".join(tokens)
                     data.append(pieces)
 

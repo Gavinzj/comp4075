@@ -1,1 +1,0 @@
-The new Facebook Container created by Mozilla, based in Mountain View, California, opens a blue-coloured browser tab that isolates your Facebook session.

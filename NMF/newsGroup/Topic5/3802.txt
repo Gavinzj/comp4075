@@ -1,0 +1,1 @@
+CometML wants to do for machine learning what GitHub did for code Comet.ml allows data scientists and developers to easily monitor, compare and optimize their machine learning models. The New York-based company is launching its product today, after completing the TechStars-powered Amazon Alexa Accelerator program and raisin…

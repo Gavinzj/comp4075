@@ -1,1 +1,0 @@
-I have a table of datasets in a django template like so: {% extends 'base.html' %} {% block title %}Catalogs{% endblock %} {% block content %} DatasetName Type Classification OriginalSource OriginalOwner YearOfOrigin {% for catalog in object_list %} </form> {…

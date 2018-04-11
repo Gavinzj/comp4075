@@ -1,0 +1,1 @@
+Twitter delays API overhaul that could change how third-party apps operate After a bit of a hubbub among developers this morning who were pissed that in a few months their third-party Twitter apps could lose essential functionality, Twitter announced that they would be delaying the sunset of certain APIs in an effort to make sure de…

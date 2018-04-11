@@ -1,1 +1,0 @@
-The cockroach's ability to quickly switch from walking on the ground to climbing a wall is helping scientists develop fast-reaction robots able to change direction and climb over obstacles without relying on complex and expensive sensors.

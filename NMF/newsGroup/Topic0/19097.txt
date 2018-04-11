@@ -1,0 +1,1 @@
+Yes Chrome is scanning your Windows PC, but it might be a bug A few days ago Kelly Shortridge, a product manager at SecurityScorecard detected some unexpected behavior on her PC, as a honeypot Canarytoken reported being accessed by Chrome.exe. That's not what you'd expect from a web browser normally, except for one thin…

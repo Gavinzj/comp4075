@@ -1,1 +1,0 @@
-I'm having difficulty configuring static files in Django 2.0.3 The production server deployed on Heroku works properly when DEBUG = True, but as soon as I switch it to DEBUG = False, I get an Application error, spawning 9 identical ERROR (EXTERNAL IP): Intern…

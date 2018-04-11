@@ -1,0 +1,1 @@
+possible to add to Django ManyToManyField with only instance IDs Is it possible to add to a ManyToManyField when you've only the list of IDs, without a db hit to retrieve instances (add_instances_but_with_db_hit does this, but with a hit). Thanks. class WorkerCombinedPayment(AbstractReimbursement): charge_id = models.TextF…

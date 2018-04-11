@@ -1,1 +1,0 @@
-Runtime verification (RV) is a relatively new software analysis approach, introduced by Klaus Havelund (NASA JPL) and Grigore Rosu in 2001 when they were colleagues at NASA Ames.

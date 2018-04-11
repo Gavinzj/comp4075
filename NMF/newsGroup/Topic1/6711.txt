@@ -1,1 +1,0 @@
-Android is an open-source operating system but Google is cracking down on GApp sideloading. It will make an exception for custom ROM users.

@@ -1,1 +1,0 @@
-I have a MultipleChoiceField in Django 1.11 and it auto selects the empty value in the rendered output what is not desired. choices = [(u'', '(no extra)'), (u'cheese', u'Cheese'), (u'Pepper', u'Pepper')] extra_topics = forms.MultipleChoiceField(required=False…

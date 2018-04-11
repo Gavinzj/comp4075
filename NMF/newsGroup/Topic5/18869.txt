@@ -1,1 +1,0 @@
-New build jazzes up Sets with a host of improvements including the ability to drag tabs around.

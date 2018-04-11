@@ -1,0 +1,1 @@
+Django Serializers related models POST from angular 4 in single JSON My requirement - I have two models TravelReq and TravelReqDetails as below class TravelReq(models.Model): empid= models.CharField(max_length=7) startdate= models.DateField() enddate= models.DateField() remarks= models.CharField(max_length=30) missionname= mod…

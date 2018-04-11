@@ -1,1 +1,0 @@
-An RFID reader, a Raspberry Pi, a few Google Homes, a Chromecast speaker, and some Python is almost all you need to get going!

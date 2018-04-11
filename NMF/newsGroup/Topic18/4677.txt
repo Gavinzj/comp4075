@@ -1,0 +1,1 @@
+Docker compose errors using volumes Here's the deal: I want to create an image based on python:latest, for django development. I want to create the django project INSIDE THE CONTAINER and make it reflect on a host folder, via docker volumes. I want to use the python interpreter from the contain…

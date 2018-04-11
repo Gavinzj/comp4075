@@ -1,1 +1,0 @@
-This is a leadscrew block replacement for the one modeled on the Farmbot ver 1.3 and older systems. This allows you to use the standard leadscrew nut in your build and have it attached to the carriage plate on the cross-slide. The part should grab and hold on…

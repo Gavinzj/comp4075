@@ -1,0 +1,1 @@
+Chrome 66 will try to block unwanted noisy autoplaying video Browser will use heuristics to allow sites like YouTube, Netflix to continue to autoplay.

@@ -1,1 +1,0 @@
-Regulator looking into whether aborted cancellation attempt broke market abuse rules

@@ -1,1 +1,0 @@
-When I enter info into my formset, the images gets erased and I'm not able to advance to the next page. No errors appear on the page. Essentially, the form data isn't passing "is_valid". I'm pretty certain that there is something wrong in my view.py. Models.p…

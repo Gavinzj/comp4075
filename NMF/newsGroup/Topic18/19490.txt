@@ -1,1 +1,0 @@
-Microsoft has released the source code for the original, 1990s-era File Manager that is so familiar to all of us who were dragging and dropping on Windows 3.0. The code, which is available on Github under the MIT OSS license, will compile under Windows 10. Fi…

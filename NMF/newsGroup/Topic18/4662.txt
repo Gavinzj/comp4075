@@ -1,1 +1,0 @@
-I have just deployed my django project on dogitalocean (nginx/ubuntu 16.04) server. In Allowed hosts I added ['.example.com', 'IP'] In the DNS records of my digitalocean droplet I added two A type records one is pointing example.com to the IP, & the second is…

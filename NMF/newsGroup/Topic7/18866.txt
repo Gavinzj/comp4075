@@ -1,1 +1,0 @@
-Microsoft promised 64-bit support was coming, and it’s apparently arriving in the very near future.

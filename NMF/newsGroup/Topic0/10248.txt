@@ -1,1 +1,0 @@
-The Monsenso app carries out real-time analysis of physical movement, linguistics and other data patterns to trigger health alerts and provide real-time medical advice.

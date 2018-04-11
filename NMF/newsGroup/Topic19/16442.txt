@@ -1,1 +1,0 @@
-Some applications and websites don’t render and display so called “zero-width characters.” A developer created a tool to hide these invisible characters in plain sight, and then use them to identify who copied and pasted the original text.

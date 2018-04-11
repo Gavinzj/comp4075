@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import nltk
 import numpy as np
 import os
 from nltk.tokenize import RegexpTokenizer
@@ -16,6 +17,7 @@ import xlsxwriter
 import sys
 import os
 import requests
+from nltk.corpus import stopwords
 
 path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources")
 print("Open file: "+path)
@@ -38,7 +40,7 @@ for input_file in input_files:
         for item in x:
             if (len(item["articles"])>0):
                 for i in range(len(item["articles"])):
-                    title = (str(item["articles"][i]["title"]) +"\t" + str(item["articles"][i]["url"])+"\t"+ str(item["articles"][i]["description"]))
+                    title = (str(item["articles"][i]["title"]) +"§" + str(item["articles"][i]["url"])+"§"+ str(item["articles"][i]["description"]))
                     titles.append(title)
 num_show_news = len(titles)
 tokenizer = RegexpTokenizer(r'\w+')
@@ -63,10 +65,10 @@ for input_file in input_files:
                     pieces = re.sub(r"http\S+","",str(pieces))
                     pieces = re.sub("[+\.\!\/_,$%^*(+\"\'@#]", "",str(pieces))
                     pieces = re.sub('[^A-Za-z\s]', "", str(pieces))
-                    stopwords = ("a", "an", "the", "he", "she", "it")
+                    stops = set(stopwords.words("english"))
                     pieces = str(pieces).lower()
                     tokens = str(pieces).split()
-                    tokens = [w for w in tokens if w not in stopwords]
+                    tokens = [w for w in tokens if w not in stops]
                     pieces = " ".join(tokens)
                     data.append(pieces)
 	
@@ -136,7 +138,7 @@ for i in range(len(doctopic)):
     top_topics = np.argsort(doctopic[i,:])[::-1][0:10]
     top_topics_str = ' '.join(str(t) for t in top_topics)
     sys.stdout=open("/Users/fzj/Desktop/comp4075/NMF/newsKeyword/title_topic.txt","a+")
-    print("{}§ {}+\n".format(novels[i], top_topics_str))
+    print("{}§{}+\n".format(novels[i], top_topics_str))
     sys.stdout.close()
     
 

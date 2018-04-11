@@ -1,1 +1,0 @@
-This wearable device can respond to your thoughts. The signals the wearable picks up are given to a system that analyzes the data, associating specific signals with words.

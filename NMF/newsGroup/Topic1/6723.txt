@@ -1,1 +1,0 @@
-Google will now let developers use the text-to-speech synthesis that powers the voices in Google Assistant and Maps. Cloud Text-to-Speech is available now through the Google Cloud Platform and the company says it can be used to power voice response systems in…

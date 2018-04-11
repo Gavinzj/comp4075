@@ -1,1 +1,0 @@
-Bangalore: Cloud App Security detected and blocked 3.4 million high-risk email in 2017. managed to detect over 50,000 and 3,000 BEC threats in the last three quarters of 2017, according to Trend Micro Cloud App 2017 report. Security The Trend Micro Cloud App …

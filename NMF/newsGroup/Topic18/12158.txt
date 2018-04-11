@@ -1,1 +1,0 @@
-War Mode will leave custom servers and head to live servers for Event Mode, but will be tweaked first.

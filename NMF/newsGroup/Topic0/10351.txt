@@ -1,0 +1,1 @@
+Microsoft AI knows when to (politely) interrupt conversations Most AI assistants can't really hold a conversation. They're fine with I-go-you-go dialogue, but most humans aren't quite so timid -- they know when to interrupt, and when to restart chat when there's an awkward pause. Microsoft wants to fix that. It just upg…

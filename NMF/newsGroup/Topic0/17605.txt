@@ -1,0 +1,1 @@
+Uber's Crash and the Folly of Humans Training Self-Driving Cars Humans are terrible at paying attention when they're doing all the driving. So why expect anything different when the robot's in charge?

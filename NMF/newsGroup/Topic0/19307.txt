@@ -1,1 +1,0 @@
-File "C:\Python36\lib\site-packages\django\db\backends\utils.py", line 85, in _execute return self.cursor.execute(sql, params) File "C:\Python36\lib\site-packages\django\db\backends\sqlite3\base.py", line 303, in execute return Database.Cursor.execute(self, q…

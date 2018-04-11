@@ -1,1 +1,0 @@
-Speakers: Eric Zimmerman This webinar will cover Registry Explorer version 1.0 including features such as searching multiple hives, transaction log replay, plugins, and more. Attendees of the webinar will understand how to use the many features available in R…

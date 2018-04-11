@@ -1,0 +1,1 @@
+Botanalytics offers analytics for conversational interfaces and chatbots The rise of chatbots and smart speaker-powered voice assistants, such as Alexa and Google Home, has produced the need for specialist analytics so that developers can track how well those conversational interfaces are working. Hoping to take a chunk of this na…

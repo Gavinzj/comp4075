@@ -1,1 +1,0 @@
-Google Cloud is launching a new feature today that will give its users a new way to monitor and optimize how their data flows between their servers in the Google Cloud and other Google Services, on-premises deployments and virtually any other internet endpoin…

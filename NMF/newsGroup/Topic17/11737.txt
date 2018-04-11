@@ -1,1 +1,0 @@
-Nvidia has unveiled several updates to its deep-learning computing platform, including an absurdly powerful GPU and supercomputer. At this year's GPU Technology Conference in San Jose, Nvidia CEO Jensen Huang unveiled the DGX-2, a new computer for researchers…

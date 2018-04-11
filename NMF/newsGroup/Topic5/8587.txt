@@ -1,1 +1,0 @@
-<!-- All divs have been put onto one line because of whitespace issues when rendered inline in browsers --> The new national security adviser has doled out $14 million to Republican candidates in the last five years. <!-- All divs have been put onto one line …

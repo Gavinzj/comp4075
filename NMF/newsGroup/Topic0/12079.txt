@@ -1,1 +1,0 @@
-I've been research a lot about this, but don't get any answer accurate. Here's the deal: I want to override where forms.Field is used from my own, that is, where all classes that inherit from forms.Field, inherit from my own. Why? I like to add some propertie…

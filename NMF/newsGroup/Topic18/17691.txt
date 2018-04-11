@@ -1,0 +1,1 @@
+Upload multiple files using Files Field in Django Admin Here i have class models: models.py class Parameter(models.Model): files = models.FileField( upload_to='uploaded', blank=True, null=True, ) and i have this in my admin.py class ParameterAdmin(admin.ModelAdmin): form = Parameter and i add it in my forms.py so …

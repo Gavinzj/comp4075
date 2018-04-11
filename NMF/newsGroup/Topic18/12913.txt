@@ -1,1 +1,0 @@
-As companies gather increasing amounts of data, they face a choice over bottlenecks. They can have it in the storage component or the backend compute system. Some companies have attacked the problem by using GPUs to streamline the back end problem or Flash st…

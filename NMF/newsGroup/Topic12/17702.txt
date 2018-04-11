@@ -1,0 +1,1 @@
+Using Django's Q to get search result from CBV's I am trying to implement a simple search feature in my CBV's ListView below is how my ListView looks like class Postlist(SelectRelatedMixin, ListView): model = Post select_related = ('user', 'group') I would like to achieve something like this def post_list(r…

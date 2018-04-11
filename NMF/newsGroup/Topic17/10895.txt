@@ -1,1 +1,0 @@
-Soon you won't need one of NVIDIA's tiny Jetson systems if you want to tap into its AI smarts for smaller devices. At its GPU Technology Conference (GTC) today, the company announced it'll be bringing its open source Deep Learning Architecture (NVDLA) over to…

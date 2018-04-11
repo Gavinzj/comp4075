@@ -1,1 +1,0 @@
-Browser will use heuristics to allow sites like YouTube, Netflix to continue to autoplay.

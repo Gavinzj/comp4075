@@ -1,1 +1,0 @@
-I have the following js that adds forms to my template whenever I click on the button "" function updateElementIndex(el, prefix, ndx) { var id_regex = new RegExp('(' + prefix + '-\\d+)'); var replacement = prefix + '-' + ndx; if ($(el).attr("for")) $(el).attr…
