@@ -9,6 +9,7 @@ def get_tweets(user, pages=25):
     """Gets tweets for a given user, via the Twitter frontend API."""
 
     url = f'https://twitter.com/i/profiles/show/{user}/timeline/tweets?include_available_features=1&include_entities=1&include_new_items_bar=true'
+    
     headers = {
         'Accept': 'application/json, text/javascript, */*; q=0.01',
         'Referer': f'https://twitter.com/{user}',
