@@ -1,1 +1,0 @@
-Google Chrome adds a new emoji right-click shortcut Google Chrome added a new shortcut to make adding emoji on desktop easier. It’s currently on the testing channel Chrome Canary, and users can enable it by going to chrome://flags and searching “emoji,” as spotted by 9to5Google.

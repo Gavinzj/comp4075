@@ -1,0 +1,1 @@
+Django - how to use a template tag within a url I have a template tag named 'string_after' that I want to use within a URL. however I cant find anywhere what the syntax would be to use the tag within a URL? I would use the tag as such {% string_after type.site_type 'd' %} which I tried to put inside the ur…

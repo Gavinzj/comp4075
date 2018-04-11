@@ -1,1 +1,1 @@
-How to export to XML format from DJango SQLIte I have a table of datasets in a django template like so: {% extends 'base.html' %} {% block title %}Catalogs{% endblock %} {% block content %} DatasetName Type Classification OriginalSource OriginalOwner YearOfOrigin {% for catalog in object_list %} </form> {…
+Hillary Clinton: Republican Party is being 'held captive' Former presidential candidate Hillary Clinton shares her concerns about the 'wealthy patrons' that support the Republican Party.

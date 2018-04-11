@@ -1,1 +1,1 @@
-NVIDIA's next AI steps: An ARM deal and a new 'personal supercomputer' Soon you won't need one of NVIDIA's tiny Jetson systems if you want to tap into its AI smarts for smaller devices. At its GPU Technology Conference (GTC) today, the company announced it'll be bringing its open source Deep Learning Architecture (NVDLA) over to…
+Mobile Industry Awards 2018 - Are you the industry's Best MVNO or Best MVNO Partner? Submit your award winning entry for the Mobile Industry Awards
