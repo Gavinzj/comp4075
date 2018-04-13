@@ -1,0 +1,1 @@
+Firefox updates its iOS web browser to turn Tracking Protection on by default At a time when web users are becoming more concerned about their online privacy and personal data, Mozilla today is launching a new version of its Firefox for iOS web browser that includes Tracking Protection turned on by default. That means when you use the …

@@ -1,1 +1,0 @@
-after bit of hubbub among developers this morning who were pissed that in few months their thirdparty twitter apps could lose essential functionality twitter announced that they would be delaying sunset of certain apis in effort to make sure de

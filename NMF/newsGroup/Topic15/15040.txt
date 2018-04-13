@@ -1,0 +1,1 @@
+Nvidia brings joy by bringing GPU acceleration to Kubernetes This has been a long time coming, but during his GTC keynote, Nvidia CEO Jensen Huang today announced support for the Google-incubated Kubernetes container orchestration system on Nvidia GPUs. The idea here is to optimize the use of GPUs in hyperscale data ce…

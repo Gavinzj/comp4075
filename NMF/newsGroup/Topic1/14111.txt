@@ -1,0 +1,1 @@
+Netgear's Arlo Go security camera works over LTE, not Wi-Fi Netgear's Arlo Go LTE security camera works pretty well, but a sensitive motion detector means you'll get a lot of alerts.

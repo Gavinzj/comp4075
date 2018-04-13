@@ -1,0 +1,1 @@
+Mumblehard making a comeback? I have a WordPress honey pot, that includes a WSO web shell honey pot. In the last month, people have downloaded several (at least 3) instances of what looks to me like "Mumblehard" malware. It's Perl that runs on Linux, BSD and Windows. When I was googling a…

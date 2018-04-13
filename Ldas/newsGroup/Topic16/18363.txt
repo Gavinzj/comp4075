@@ -1,1 +1,0 @@
-warnings of lithium glut may be premature

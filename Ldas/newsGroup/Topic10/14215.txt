@@ -1,1 +1,0 @@
-in wagtail i have made block with imagechooserblock in like this class myblockblocksstructblock background imagechooserblock now i want to add some extra fields to imagechooserblock so i moved to its own block so now looks like thi

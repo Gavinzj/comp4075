@@ -1,0 +1,1 @@
+Apple warns Mac users that 32-bit apps will soon stop working Starting tomorrow, you'll see an alert box when you open a 32-bit app in MacOS 10.13.4. The one-time-per-app warning is designed to encourage users -- and developers -- to update their apps before Apple's full transition to 64-bit. It's not clear when the com…

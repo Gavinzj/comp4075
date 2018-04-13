@@ -1,0 +1,1 @@
+Argonne National Lab plans Exaflop supercomputer in 2021 In 2021, Argonne Leadership Computing Facility (ALCF) will deploy Aurora, a new Intel-Cray system. Aurora will be capable of over 1 exaflops. It is expected to have over 50,000 nodes and over 5... [[ This is a content summary only. Visit my website for full l…

@@ -1,0 +1,1 @@
+Interactive indicators Choose between two tables: one covering output, prices and jobs; the other offering trade, exchange and interest rates. Select regional and economic country groupings, such as the G20 and the BRICS beneath the "All" menu. Sort columns by country or rank by ca…

@@ -1,0 +1,1 @@
+Microsoft Mixer streams now support Lightstream Studio effects Microsoft's Twitch competitor Mixer makes livestreaming pretty straightforward thanks to a broadcast feature built directly into Xbox One and Windows 10. However, if you want to make your streams looks a bit more polished with effects and overlays, things can…

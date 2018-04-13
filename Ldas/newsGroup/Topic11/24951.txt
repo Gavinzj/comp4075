@@ -1,0 +1,1 @@
+Precision, accuracy and the importance of using the right model One of the things I think about a lot is the difference between precision and accuracy or from a modeling perspective the difference between verification and validation. The difference between precision and accuracy can be understood in terms of measuring too…

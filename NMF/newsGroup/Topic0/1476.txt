@@ -1,0 +1,1 @@
+Adjusted local models, getting columns do not exist in production environment I have a django blog project via PythonAnywhere using PostGres, and have recently tried to push my changes (mainly implementing Django-MPTT) to my models to my production server via git. I have ran migrations etc, but when I load the site, I got a server erro…

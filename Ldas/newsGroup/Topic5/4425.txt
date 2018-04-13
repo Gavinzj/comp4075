@@ -1,0 +1,1 @@
+Wrap PolygonCollder2D to non-transparent part of Sprite? I'm trying to wrap a PolygonCollider2D around the non-transparent part of a Sprite, pixel perfect. Is there an easy way to do this? Just adding the collider to a GameObject with a SpriteRenderer and a Sprite does wrap it a fair bit, but far from perfectly.

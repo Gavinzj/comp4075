@@ -1,0 +1,1 @@
+Building a Realtime Chat Application with Angular and Firebase 

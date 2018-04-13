@@ -1,0 +1,1 @@
+Apple has begun notifying macOS users of coming 32-bit app incompatibility Warnings have started, but 32-bit support will likely continue for many months.

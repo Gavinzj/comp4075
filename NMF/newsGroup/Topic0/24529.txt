@@ -1,0 +1,1 @@
+YouTube's dynamic player for square and vertical video arrives on Android Videos will expand to fill the whole screen with no black bars and crop automatically when scrolling.

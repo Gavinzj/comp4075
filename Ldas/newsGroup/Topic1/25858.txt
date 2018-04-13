@@ -1,0 +1,1 @@
+German university getting multi-petaflop Cray CS500 supercomputer Paderborn University (Germany) has selected a Cray CS500 cluster accelerated by FPGAs as the first phase of its Noctua multi-petaflop supercomputer. The new supercomputer will be comprised of 272... [[ This is a content summary only. Visit my website for full…

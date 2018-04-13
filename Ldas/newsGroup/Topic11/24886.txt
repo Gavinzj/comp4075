@@ -1,0 +1,1 @@
+Special Webcast: Python Regular Expressions for the Win! - April 13, 2018 3:30pm US/Eastern Speakers: Joff Thyer As security professionals, we are put into the position of log file analysis countless times. Sometimes our log sources have inconsistencies, and formats that cannot be easily split apart using a delimiter based approach. Additionally, we…

@@ -1,1 +1,0 @@
-im building saleor site and im relatively new to django and sass im currently making my own styling rules in my scss files where theres some duplicated code and i feel like theres probably way of reducing amount of that duplicated code couldnt

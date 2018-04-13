@@ -1,0 +1,1 @@
+Mozilla's new Firefox extension keeps Facebook locked in its own sandbox Firefox Container stops Facebook tracking your browsing with third-party cookies.

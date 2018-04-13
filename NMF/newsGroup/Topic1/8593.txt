@@ -1,0 +1,1 @@
+Google launches more realistic text-to-speech service powered by DeepMind’s AI Google is offering more and more AI-powered cloud tools. Its latest is a voice synthesizer, powered by machine learning from Google’s UK subsidiary DeepMind.

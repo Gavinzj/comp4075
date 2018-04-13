@@ -1,0 +1,1 @@
+It’s not just Spectre: Researchers reveal more branch prediction attacks New attack focuses on a different part of the speculative execution system.

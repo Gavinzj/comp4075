@@ -1,0 +1,1 @@
+Corda blockchain operating system for financial markets R3 is developing a blockchain-platformed operating system called Corda. A 100-plus member consortium of banks, regulators and technology partners are developing Corda and are led by blockchain tech start-up R3 CEV. Corda is an open source blockchain project, …

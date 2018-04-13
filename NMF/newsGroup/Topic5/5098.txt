@@ -1,0 +1,1 @@
+Contiuous updating Django for standalone app I am new to Django and I am having a lot of trouble with a certain concept. I see many questions about this but they are usually about much more complicated applications. I am trying to build an app that will be used on a single computer and only as a stand a…

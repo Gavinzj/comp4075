@@ -23,7 +23,7 @@ with open(input_file,'r') as f:
                 name = contents[0]
                 url = contents[1]
                 description = contents[2]
-                topic = "Topic"+str(contents[3].split(" ")[1])
+                topic = "Topic"+str(contents[3].split(" ")[0])
                 #print(topic)
                 toPrint = str(name)+" "+str(description)
                 if toPrint:

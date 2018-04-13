@@ -1,0 +1,1 @@
+WA Current Conditions WA Current Conditions as of 11:00 PM PDT Saturday, March 31, 2018 _____ City/Town;Weather Condition;Temp (F);Wind Direction;Wind Speed (MPH);Humidity (%) Arlington;Cloudy;46;Calm;0;78% Bellingham;Clear;46;SSE;7;76% Bremerton;Mostly cloudy;45;WSW;2;87% Chehali…

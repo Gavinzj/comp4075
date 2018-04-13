@@ -1,0 +1,1 @@
+17 comments OK so.... what it's attempting to do is start a netcat listener on port 8080... gigantic if here. If for some reason someone had a script that was doing something with their SSID (think: automated exploitation) and also had a vulnerable bash - more on the vul…

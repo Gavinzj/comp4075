@@ -1,1 +1,0 @@
-i have just deployed my django project on dogitalocean nginxubuntu server in allowed hosts i added examplecom ip in dns records of my digitalocean droplet i added two type records one is pointing examplecom to ip second is

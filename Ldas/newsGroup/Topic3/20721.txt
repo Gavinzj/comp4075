@@ -1,0 +1,1 @@
+Django Rest Framework: docs not found Django 2.0.1 DRF 3.7.7 I am using automatically generated documentation provided by DRF. My urls.py : from rest_framework.documentation import include_docs_urls urlpatterns = [... path('docs/', include_docs_urls(title='My API')),... ] This used to work just f…

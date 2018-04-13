@@ -1,0 +1,1 @@
+NVIDIA will end 32-bit OS GeForce support this month If you're using an NVIDIA GeForce card on a 32-bit OS for some reason, take notice.

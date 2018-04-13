@@ -1,0 +1,1 @@
+Man with excellent taste in music controls his Google speakers with RFID tags An RFID reader, a Raspberry Pi, a few Google Homes, a Chromecast speaker, and some Python is almost all you need to get going!

@@ -1,0 +1,1 @@
+Machine Learning Zone: OpenAI competition takes on Sonic the Hedgehog Retro video games have been a useful platform for machine learning research for years, and the systems created have been creeping through the classics, mastering them as they go. Sonic the Hedgehog may be the next to fall: OpenAI has announced a competition t…

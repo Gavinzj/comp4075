@@ -1,1 +1,0 @@
-my requirement i have two models travelreq and travelreqdetails as below class travelreqmodelsmodel empid modelscharfieldmaxlength startdate modelsdatefield enddate modelsdatefield remarks modelscharfieldmaxlength missionname mod

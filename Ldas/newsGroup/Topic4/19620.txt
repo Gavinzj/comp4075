@@ -1,1 +1,0 @@
-today we are going to take look into area that you probably are thinking has very little to see tsql identifiers ie entity names most of time rules governing how you name things in sql server are pretty simple but there are several nuance

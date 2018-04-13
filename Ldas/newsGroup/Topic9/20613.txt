@@ -1,1 +1,0 @@
-microsoft has released source code for original sera file manager that is so familiar to all of us who were dragging and dropping on windows code which is available on github under mit oss license will compile under windows fi

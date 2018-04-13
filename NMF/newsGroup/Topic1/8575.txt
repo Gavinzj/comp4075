@@ -1,0 +1,1 @@
+Google accidentally confirms Pixel 3 in new Android source code Google done goofed. In a commit message on the Android Open Source Project, spotted by XDA-Developers, Google has confirmed that the mysterious Pixel 3 is a real thing. We don't yet know where, when, or how, but it's coming. SEE ALSO: Google might release a c…

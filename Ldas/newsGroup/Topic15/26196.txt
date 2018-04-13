@@ -1,0 +1,1 @@
+FireFox for iOS gets a major security boost The browser now offers tracking protection by default, plus new drag-and-drop features for iPad.

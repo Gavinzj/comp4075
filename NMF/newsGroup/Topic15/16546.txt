@@ -1,0 +1,1 @@
+ProtonMail brings encrypted contacts to its mobile email app ProtonMail's encrypted contacts are now readily available beyond the web -- the company has updated its Android and iOS email apps to add the privacy-minded contacts manager. It uses zero-access encryption to prevent everyone but you (yes, including ProtonMai…

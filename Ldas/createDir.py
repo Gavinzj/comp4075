@@ -17,17 +17,19 @@ with open(input_file,'r') as f:
         for line in f:
             #print(line)
             contents = []
-            contents = line.split("\t")
+            contents = line.split("§")
             if(len(contents)>=4):
                 name = contents[0]
                 url = contents[1]
                 description = contents[2]
-                topic = "Topic"+str(contents[3])
+                topic = "Topic"+str(contents[3].split()[0])
                 #print(topic)
-                fileName = "/Users/fzj/Desktop/comp4075/Ldas/newsGroup/"+topic+"/"+str(i)+".txt";
-                i = i+1
-                sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), fileName),"w")
-                print("{}".format(description))
-                sys.stdout.close()
+                toPrint = str(name)+" "+str(description)
+                if toPrint:
+                    fileName = "/Users/fzj/Desktop/comp4075/Ldas/newsGroup/"+topic+"/"+str(i)+".txt";
+                    i = i+1
+                    sys.stdout=open(os.path.join(os.path.dirname(os.path.abspath(__file__)), fileName),"w")
+                    print("{} {}".format(name,description))
+                    sys.stdout.close()
             
             
