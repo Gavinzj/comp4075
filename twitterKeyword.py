@@ -29,6 +29,9 @@ for tweet in get_tweets(user, pages=pages):
     output = ""
     for token in tokens:
         output = output +" " +token
+    orig_stdout = sys.stdout
     sys.stdout=open(fileName,"a+")
     print("{}".format(output))
     sys.stdout.close()
+    sys.stdout=orig_stdout
+    
