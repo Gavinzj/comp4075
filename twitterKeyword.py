@@ -13,8 +13,8 @@ import numpy as np
 from nltk.corpus import stopwords
 
 
-user = "realDonaldTrump"
-pages = 5
+user = "FunkoPopHunters"
+pages = 10
 
 fileName = "/Users/fzj/Desktop/comp4075/OnlineBTM/sample-data/0.txt"
 for tweet in get_tweets(user, pages=pages):
@@ -29,6 +29,7 @@ for tweet in get_tweets(user, pages=pages):
     output = ""
     for token in tokens:
         output = output +" " +token
+    print(output)
     orig_stdout = sys.stdout
     sys.stdout=open(fileName,"a+")
     print("{}".format(output))
