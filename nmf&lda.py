@@ -137,69 +137,69 @@ print()
 
 
 
-## Fit the NMF model
-#print("Fitting the NMF model (Frobenius norm) with tf-idf features, "
-#      "n_samples=%d and n_features=%d..."
-#      % (n_samples, n_features))
-#t0 = time()
-#nmf = NMF(n_components=n_components, random_state=1,
-#          alpha=.1, l1_ratio=.5).fit(tfidf)
-#
-#doctopic = nmf.fit_transform(dtm)
-#
-#print("save model")
-#model_path = '/Users/fzj/Desktop/comp4075/NMF/finalized_model.sav'
-#pickle.dump(nmf, open(model_path, 'wb'))
-#
-#doctopic = doctopic / np.sum(doctopic, axis=1, keepdims=True)
-#
-#novel_names = []
-#for name in titles:
-#    name = name.rstrip('0123456789')
-#    novel_names.append(name)
-#novel_names = np.asarray(novel_names)
-#doctopic_orig = doctopic.copy()
-#num_groups = len(set(novel_names))
-#doctopic_grouped = np.zeros((num_groups, n_components))
-#for i, name in enumerate(sorted(set(novel_names))):
-#    doctopic_grouped[i, :] = np.mean(doctopic[novel_names == name, :], axis=0)
-#
-#doctopic = doctopic_grouped
-#print("doc-topic matrix")
-#print(doctopic)
-#novels = sorted(set(novel_names))
-#print("create title_topic.txt")
-#
-#for i in range(len(doctopic)):
-#    top_topics = np.argsort(doctopic[i,:])[::-1][0:10]
-#    top_topics_str = ' '.join(str(t) for t in top_topics)
-#
-#    orig_stdout = sys.stdout
-#    sys.stdout=open("/Users/fzj/Desktop/comp4075/NMF/newsKeyword/title_topic.txt","a+")
-#    print("{}§{}+\n".format(novels[i], top_topics_str))
-#    sys.stdout.close()
-#    sys.stdout=orig_stdout 
-#
-#
-#print("doctopic.xlsx")
-#workbook = xlsxwriter.Workbook('/Users/fzj/Desktop/comp4075/NMF/newsKeyword/doctopic.xlsx')
-#worksheet = workbook.add_worksheet()
-#row = 0
-#for col, data in enumerate(doctopic):
-#    worksheet.write_column(row, col, data)
-#
-#workbook.close()
-#
-#print("create topic.txt")
-#orig_stdout = sys.stdout
-#sys.stdout=open("/Users/fzj/Desktop/comp4075/NMF/newsKeyword/topic.txt","a+")
-#tfidf_feature_names = tfidf_vectorizer.get_feature_names()
-#print_top_words(nmf, tfidf_feature_names, n_top_words)
-#sys.stdout.close()
-#sys.stdout=orig_stdout 
-#
-#
-#print("done in %0.3fs." % (time() - t0))
+# Fit the NMF model
+print("Fitting the NMF model (Frobenius norm) with tf-idf features, "
+      "n_samples=%d and n_features=%d..."
+      % (n_samples, n_features))
+t0 = time()
+nmf = NMF(n_components=n_components, random_state=1,
+          alpha=.1, l1_ratio=.5).fit(tfidf)
+
+doctopic = nmf.fit_transform(dtm)
+
+print("save model")
+model_path = '/Users/fzj/Desktop/comp4075/NMF/finalized_model.sav'
+pickle.dump(nmf, open(model_path, 'wb'))
+
+doctopic = doctopic / np.sum(doctopic, axis=1, keepdims=True)
+
+novel_names = []
+for name in titles:
+    name = name.rstrip('0123456789')
+    novel_names.append(name)
+novel_names = np.asarray(novel_names)
+doctopic_orig = doctopic.copy()
+num_groups = len(set(novel_names))
+doctopic_grouped = np.zeros((num_groups, n_components))
+for i, name in enumerate(sorted(set(novel_names))):
+    doctopic_grouped[i, :] = np.mean(doctopic[novel_names == name, :], axis=0)
+
+doctopic = doctopic_grouped
+print("doc-topic matrix")
+print(doctopic)
+novels = sorted(set(novel_names))
+print("create title_topic.txt")
+
+for i in range(len(doctopic)):
+    top_topics = np.argsort(doctopic[i,:])[::-1][0:10]
+    top_topics_str = ' '.join(str(t) for t in top_topics)
+
+    orig_stdout = sys.stdout
+    sys.stdout=open("/Users/fzj/Desktop/comp4075/NMF/newsKeyword/title_topic.txt","a+")
+    print("{}§{}+\n".format(novels[i], top_topics_str))
+    sys.stdout.close()
+    sys.stdout=orig_stdout 
+
+
+print("doctopic.xlsx")
+workbook = xlsxwriter.Workbook('/Users/fzj/Desktop/comp4075/NMF/newsKeyword/doctopic.xlsx')
+worksheet = workbook.add_worksheet()
+row = 0
+for col, data in enumerate(doctopic):
+    worksheet.write_column(row, col, data)
+
+workbook.close()
+
+print("create topic.txt")
+orig_stdout = sys.stdout
+sys.stdout=open("/Users/fzj/Desktop/comp4075/NMF/newsKeyword/topic.txt","a+")
+tfidf_feature_names = tfidf_vectorizer.get_feature_names()
+print_top_words(nmf, tfidf_feature_names, n_top_words)
+sys.stdout.close()
+sys.stdout=orig_stdout 
+
+
+print("done in %0.3fs." % (time() - t0))
 #
 #
 #
